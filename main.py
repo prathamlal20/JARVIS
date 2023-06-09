@@ -10,7 +10,6 @@ import re
 import openai
 from config import openai_apikey
 
-
 # User created libraries
 import greetings
 from browsing import sites
