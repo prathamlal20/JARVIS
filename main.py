@@ -77,7 +77,7 @@ def takecommand():
 
 if __name__ == "__main__":
     greetings.greeting()
-    # respond("Hello, Myself Vision! Ready to Serve You")
+    respond("Hello, Myself Vision! Ready to Serve You")
     while True:
         print("Listening")
         query = takecommand()
